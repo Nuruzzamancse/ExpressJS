@@ -18,7 +18,7 @@ router.post('/send',function (req,res,next) {
        service:'Gmail',
        auth:{
            user:'mr.nuruzzamancse@gmail.com',
-           pass:'password'
+           pass:'No Password'
        }
    }) ;
 
